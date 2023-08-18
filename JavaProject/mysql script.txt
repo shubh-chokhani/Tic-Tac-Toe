@@ -1,0 +1,3 @@
+create database score;
+use score;
+create table scores(name varchar(20), win int, lose int);
